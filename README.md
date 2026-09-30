@@ -1,4 +1,5 @@
 Bar = kam se kam itna jitna hona chahiye, tab hi kaam ko "theek" maana jayega. Jaise imtihan mein pass marks.
+Origin = case ki file mein ek line jo batati hai ke yeh ghalti kahan se aayi.
 PASS ka matlab: is ek kaam ko checker ne theek kaha.
 Kai baar chalana isliye: ta ke pata chale ke agent aam taur par kitni baar theek karta hai, sirf is ek baar nahi.
 Rubric = judge ki marking guide: har number ka matlab, ek asal misaal ke saath.
@@ -12,7 +13,11 @@ Natija ek andaza hota hai: "20 mein se 17" ka matlab hai ke abhi takreeban itna 
 Bar ghalti ki keemat se tay hota hai: refund jaise kaam par 20/20 chahiye, salaam jaise chhote kaam par kam chal sakta hai.
 checker khud bhi ghalat ho sakta hai, aur agar usay koi nahi parakhta to uska ghalat PASS bhi sach jaisa lagta hai. Isi liye use bhi jaanchte hain.
  glti ko save rakhein ek folder mein, har case ek chhoti alag file. Jaise evals/cases/ folder, aur us mein deleted-test-001.json. Is folder ko wahin rakhein jahan aap ka code hai, taake har badlaav ke saath uski history bhi rahe.
-
+Judge wahi checker hai jo PASS ya FAIL deta hai,
+Rubric judge ke liye likhi hui ek marking guide hai. Isme teen cheezein hoti hain:
+Kya dekhna hai: judge ko sahi sawal diye jate hain, jaise "kya diff mein koi test delete hua?", taake woh andaza na lagaye.
+Har nateeje ka matlab: kab 5, kab 3, kab PASS, kab FAIL. (perfomance ki base pr num dety)
+Asal misalein: har number ke saath ek asal purana kaam (jo phly hochuka), taake naya kaam us se mila kar dekha jaye.
 
 
 
