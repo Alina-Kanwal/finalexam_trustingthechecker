@@ -11,6 +11,7 @@ Ek PASS kaafi nahi: agent ka jawab kabhi alag aa sakta hai, isliye ek PASS sirf 
 Natija ek andaza hota hai: "20 mein se 17" ka matlab hai ke abhi takreeban itna theek hai. Yeh pakka waada nahi.
 Bar ghalti ki keemat se tay hota hai: refund jaise kaam par 20/20 chahiye, salaam jaise chhote kaam par kam chal sakta hai.
 checker khud bhi ghalat ho sakta hai, aur agar usay koi nahi parakhta to uska ghalat PASS bhi sach jaisa lagta hai. Isi liye use bhi jaanchte hain.
+ glti ko save rakhein ek folder mein, har case ek chhoti alag file. Jaise evals/cases/ folder, aur us mein deleted-test-001.json. Is folder ko wahin rakhein jahan aap ka code hai, taake har badlaav ke saath uski history bhi rahe.
 
 
 
