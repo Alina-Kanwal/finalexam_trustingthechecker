@@ -23,6 +23,14 @@ Input: woh kaam ya diff jo judge ko parakhna hai.
 Expected: sahi nateeja kya hona chahiye tha, jaise FAIL.
 Unacceptable: jo cheez kabhi nazar nahi aani chahiye, jaise "test hata hua aur phir bhi PASS".
 Origin: yeh ghalti kahan se aayi, jaise ticket number.
+/////////////////////////////////////////////OVERALL Y HAY KEA??
+Maan lein aap ki team mein ek naya saathi (agent) aaya hai jo customers ko jawab deta hai, aur ek supervisor (judge) hai jo uske jawab parakhti hai. Ab sawal yeh hai: supervisor ki marking par kaise bharosa karein?
+Ek baar ka PASS kaafi nahi. Saathi ek din theek kaam kare to kal bhi theek karega, yeh pakka nahi. Isliye kaam kai baar dekhte hain.
+Register banate hain. Jab bhi saathi ki koi asal ghalti pakdi jaye, uska ek safha (case) register mein likh lete hain.
+Supervisor ko marking sheet dete hain (rubric). Taake woh apne mood se number na de.
+Supervisor ko bhi parakhte hain. Aap 20 jawab khud check karti hain aur dekhti hain ke aap dono ka fe'sla kitna milta hai. Sab se bura farq wahi hai jahan supervisor ne ghalat kaam ko PASS kar diya.
+Jab bhi kuch badle, register dobara chalate hain. Naya rule aaye to dekhte hain ke purani ghalti wapas to nahi aayi.
+Waqt waqt par register chalate rehte hain. Kyunki kabhi kabhi aap kuch nahi badalti, phir bhi saathi ka behaviour badal jata hai.
 
 
 
