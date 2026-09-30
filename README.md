@@ -12,12 +12,21 @@ Ek PASS kaafi nahi: agent ka jawab kabhi alag aa sakta hai, isliye ek PASS sirf 
 Natija ek andaza hota hai: "20 mein se 17" ka matlab hai ke abhi takreeban itna theek hai. Yeh pakka waada nahi.
 Bar ghalti ki keemat se tay hota hai: refund jaise kaam par 20/20 chahiye, salaam jaise chhote kaam par kam chal sakta hai.
 checker khud bhi ghalat ho sakta hai, aur agar usay koi nahi parakhta to uska ghalat PASS bhi sach jaisa lagta hai. Isi liye use bhi jaanchte hain.
- glti ko save rakhein ek folder mein, har case ek chhoti alag file. Jaise evals/cases/ folder, aur us mein deleted-test-001.json. Is folder ko wahin rakhein jahan aap ka code hai, taake har badlaav ke saath uski history bhi rahe.
+glti ko save rakhein ek folder mein, har case ek chhoti alag file. Jaise evals/cases/ folder, aur us mein deleted-test-001.json. Is folder ko wahin rakhein jahan aap ka code hai, taake har badlaav ke saath uski history bhi rahe.
 Judge wahi checker hai jo PASS ya FAIL deta hai,
 Rubric judge ke liye likhi hui ek marking guide hai. Isme teen cheezein hoti hain:
 Kya dekhna hai: judge ko sahi sawal diye jate hain, jaise "kya diff mein koi test delete hua?", taake woh andaza na lagaye.
 Har nateeje ka matlab: kab 5, kab 3, kab PASS, kab FAIL. (perfomance ki base pr num dety)
 Asal misalein: har number ke saath ek asal purana kaam (jo phly hochuka), taake naya kaam us se mila kar dekha jaye.
+Rubric (judge ke liye, 3 cheezein):
+Kya dekhna hai: judge ko haan/nahi wale saaf sawal, jaise "kya koi test delete hua?"
+Har nateeje ka matlab: kab 5, kab 3, kab PASS, kab FAIL.
+Asal misalein: har nateeje ke saath ek purana asal kaam, taake naye kaam se mila saken.
+Case (ek ghalti ka record, 4 cheezein):
+Input: woh kaam ya diff jo judge ko parakhna hai.
+Expected: sahi nateeja kya hona chahiye tha, jaise FAIL.
+Unacceptable: jo cheez kabhi nazar nahi aani chahiye, jaise "test hata hua aur phir bhi PASS".
+Origin: yeh ghalti kahan se aayi, jaise ticket number.
 
 
 
