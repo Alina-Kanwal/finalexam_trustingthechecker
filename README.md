@@ -1,8 +1,8 @@
 Bar = kam se kam itna jitna hona chahiye, tab hi kaam ko "theek" maana jayega. Jaise imtihan mein pass marks.
-Origin = case ki file mein ek line jo batati hai ke yeh ghalti kahan se aayi.
+Origin = case ki file mein ek line jo batati hai ke yeh ghalti kahan se aayi.(human deta hy)
 PASS ka matlab: is ek kaam ko checker ne theek kaha.
 Kai baar chalana isliye: ta ke pata chale ke agent aam taur par kitni baar theek karta hai, sirf is ek baar nahi.
-Rubric = judge ki marking guide: har number ka matlab, ek asal misaal ke saath.
+Rubric = judge ki marking guide: har number ka matlab, ek asal misaal ke saath. Rubric judge ke liye hoti hai, aur usay insaan (aap ya team) likhta hai, judge nahi. Judge ko usi rubric ke hisaab se parakhna hota hai, aur baad mein aap judge ko parakhte hain ke woh rubric par kitna chalta hai.
 Jawab: agent ne kya likha. Ghalat jawab aur toota hua format yahan pakde jate hain, lekin "jawab theek lagta hai magar kaam ghalat hua" yahan nahi pakda jata.
 Kaam: agent ne asal mein kya kiya. Aap ki transactions yahan aati hain. Coding mein iski jagah diff aur log hote hain.
 Raasta: poora safar, yani kadam, dobara koshishein aur unka order. Yahan woh kharabi pakdi jati hai jo is baar chal gayi lekin agli baar nahi chalegi.
