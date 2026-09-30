@@ -10,6 +10,7 @@ Eval: wahi kaam kai baar chalata hai aur ginta hai kitni baar theek hua. Bus(Roz
 Ek PASS kaafi nahi: agent ka jawab kabhi alag aa sakta hai, isliye ek PASS sirf itna batata hai ke is baar PASS aaya.
 Natija ek andaza hota hai: "20 mein se 17" ka matlab hai ke abhi takreeban itna theek hai. Yeh pakka waada nahi.
 Bar ghalti ki keemat se tay hota hai: refund jaise kaam par 20/20 chahiye, salaam jaise chhote kaam par kam chal sakta hai.
+checker khud bhi ghalat ho sakta hai, aur agar usay koi nahi parakhta to uska ghalat PASS bhi sach jaisa lagta hai. Isi liye use bhi jaanchte hain.
 
 
 
