@@ -47,6 +47,7 @@ Hold-outs poore set ka hissa nahi hain. Wo alag, seal kiye hue cases hain jin pa
 Alina: insaan ko bhi purane sawal aasaan lagte hain, naye mushkil. AI ke saath bhi yahi hota hai. Fark yeh hai ke aap ko apna ratta mehsoos hota hai, jabke computer ka ratta aap ko score dekh kar hi pata chalta hai. Isliye hold-outs rakhte hain: naya imtihan, taake pata chale ke asal samajh hai ya sirf ratta.
 Ek lafz ki wazahat: in sets mein rules nahi hote, cases hote hain. Rule wo hai jo aap agent ko dete hain (prompt ya hidayat). Aur har case ke saath ek bar hota hai: kitne PASS par case theek maana jaye.
 Jab hold-out par ghalti pakad kar rule badlein, to wo case ab hold-out nahi raha, wo poore set mein chala jata hai.
+Reviewer/judge/checker ak hi hai,
 
 
 
