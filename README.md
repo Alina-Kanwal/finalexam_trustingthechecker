@@ -33,6 +33,10 @@ Jab bhi kuch badle, register dobara chalate hain. Naya rule aaye to dekhte hain 
 Waqt waqt par register chalate rehte hain. Kyunki kabhi kabhi aap kuch nahi badalti, phir bhi saathi ka behaviour badal jata hai. 
 1. Har baar PASS zaroori nahi hota. Yeh bar par depend karta hai. Refund jaise mehngi ghalti par har baar PASS chahiye (6 mein se 6). Lehje jaise sasti ghalti par 80% bhi chalta hai. Hum PASS isliye dekhte hain ke pata chale agent par kitna bharosa kar saken, isliye nahi ke har baar 100% laazmi ho.
 2. Haan, insaan checker ko bhi verify karta hai, lekin har baar nahi. Insaan ek chhoti jaanch karta hai: 20 fe'sle uthata hai, khud rubric ke mutabik check karta hai, aur dekhta hai ke checker se kitna milta hai. Yeh kabhi kabhi hota hai, har PASS par nahi. Aur khatarnak kaam (jaise paisa) aakhir mein phir bhi insaan ke paas jata hai.
+Jis my mistakes likhi hoti hain taaaky wo dubara na hon wo yahan wo har baar poora folder chalana mehnga padta hai, kyunki har run model ke paise lagata hai. Isliye suite ko teen hisson mein baant dete hain:
+Chhota set (smoke set): sab se zaroori 5-6 cases, har badlaav par chalte hain, kuch minute mein.
+Poora set: saare cases, raat ko schedule par.
+Hold-outs: kuch cases jin par aap ne kabhi tuning nahi ki, hafte mein ek baar.
 
 
 
