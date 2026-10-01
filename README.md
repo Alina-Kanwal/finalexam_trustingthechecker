@@ -1,4 +1,5 @@
 Bar = kam se kam itna jitna hona chahiye, tab hi kaam ko "theek" maana jayega. Jaise imtihan mein pass marks.
+Tuning = rule, prompt ya hidayat ko baar baar badal kar score behtar karna. Jaise cases fail hon to rule thoda badla, dobara chalaya, phir badla.
 Origin = case ki file mein ek line jo batati hai ke yeh ghalti kahan se aayi.(human deta hy)
 PASS ka matlab: is ek kaam ko checker ne theek kaha.
 Kai baar chalana isliye: ta ke pata chale ke agent aam taur par kitni baar theek karta hai, sirf is ek baar nahi.
