@@ -50,6 +50,7 @@ Jab hold-out par ghalti pakad kar rule badlein, to wo case ab hold-out nahi raha
 Reviewer/judge/checker ak hi hai,
 Verdict = judge ka faisla ek kaam par: PASS ya FAIL (saath mein reasons aur risk). Jaise ek exam ka result: pass ya fail.
 Misaal: judge ne ek diff dekha aur likha {"verdict": "FAIL", "reasons": ["test deleted"], "risk": "high"}. Yeh ek verdict hai.
+Suite = cases ka poora set, jise saath mein chalate hain. Jaise register mein saari purani ghaltiyon ke safhe, ya imtihan ka poora paper.
 
 
 
