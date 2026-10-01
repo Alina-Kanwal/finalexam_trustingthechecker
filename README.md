@@ -40,6 +40,32 @@ Poora set: saare cases, raat ko schedule par.
 Hold-outs: kuch cases jin par aap ne kabhi tuning (changes jo tha wohi raha) nahi ki, hafte mein ek baar computer chalayega. Laken agr tuned case m changes hojaye tw wo tuned ni rehta blky pora set my chala jata hy.
 Chhota tareeqa jaldi aur sasta hai, isliye har badlaav/changes
 Bada tareeqa dair aur paisa leta hai, isliye wahi raat ko ya hafte mein ek baar. 
+Case green tab rehta hai jab agent us case mein sahi kaam kar raha ho, yani purani ghalti dobara nahi ho rahi. Jaise hi ghalti wapas aaye, case red ho jata hai.
+2. Chhota set, poora set, hold-outs.
+Chhota set poore set ka hissa hai. Poore set ke saare cases mein se sab se zaroori 5-6 cases chhote set mein bhi rakhte hain.
+Hold-outs poore set ka hissa nahi hain. Wo alag, seal kiye hue cases hain jin par tuning nahi hui.
+Alina: insaan ko bhi purane sawal aasaan lagte hain, naye mushkil. AI ke saath bhi yahi hota hai. Fark yeh hai ke aap ko apna ratta mehsoos hota hai, jabke computer ka ratta aap ko score dekh kar hi pata chalta hai. Isliye hold-outs rakhte hain: naya imtihan, taake pata chale ke asal samajh hai ya sirf ratta.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
