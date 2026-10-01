@@ -45,6 +45,8 @@ Case green tab rehta hai jab agent us case mein sahi kaam kar raha ho, yani pura
 Chhota set poore set ka hissa hai. Poore set ke saare cases mein se sab se zaroori 5-6 cases chhote set mein bhi rakhte hain.
 Hold-outs poore set ka hissa nahi hain. Wo alag, seal kiye hue cases hain jin par tuning nahi hui.
 Alina: insaan ko bhi purane sawal aasaan lagte hain, naye mushkil. AI ke saath bhi yahi hota hai. Fark yeh hai ke aap ko apna ratta mehsoos hota hai, jabke computer ka ratta aap ko score dekh kar hi pata chalta hai. Isliye hold-outs rakhte hain: naya imtihan, taake pata chale ke asal samajh hai ya sirf ratta.
+Ek lafz ki wazahat: in sets mein rules nahi hote, cases hote hain. Rule wo hai jo aap agent ko dete hain (prompt ya hidayat). Aur har case ke saath ek bar hota hai: kitne PASS par case theek maana jaye.
+Jab hold-out par ghalti pakad kar rule badlein, to wo case ab hold-out nahi raha, wo poore set mein chala jata hai.
 
 
 
