@@ -37,9 +37,20 @@ Waqt waqt par register chalate rehte hain. Kyunki kabhi kabhi aap kuch nahi bada
 Jis my mistakes likhi hoti hain taaaky wo dubara na hon wo yahan wo har baar poora folder chalana mehnga padta hai, kyunki har run model ke paise lagata hai. Isliye suite ko teen hisson mein baant dete hain:
 Chhota set (smoke set): sab se zaroori 5-6 cases, har badlaav par chalte hain, kuch minute mein.
 Poora set: saare cases, raat ko schedule par.
-Hold-outs: kuch cases jin par aap ne kabhi tuning nahi ki, hafte mein ek baar.
+Hold-outs: kuch cases jin par aap ne kabhi tuning (changes jo tha wohi raha) nahi ki, hafte mein ek baar computer chalayega. Laken agr tuned case m changes hojaye tw wo tuned ni rehta blky pora set my chala jata hy.
 Chhota tareeqa jaldi aur sasta hai, isliye har badlaav/changes
-Bada tareeqa dair aur paisa leta hai, isliye wahi raat ko ya hafte mein ek baar.
+Bada tareeqa dair aur paisa leta hai, isliye wahi raat ko ya hafte mein ek baar. 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
