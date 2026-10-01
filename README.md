@@ -48,6 +48,8 @@ Alina: insaan ko bhi purane sawal aasaan lagte hain, naye mushkil. AI ke saath b
 Ek lafz ki wazahat: in sets mein rules nahi hote, cases hote hain. Rule wo hai jo aap agent ko dete hain (prompt ya hidayat). Aur har case ke saath ek bar hota hai: kitne PASS par case theek maana jaye.
 Jab hold-out par ghalti pakad kar rule badlein, to wo case ab hold-out nahi raha, wo poore set mein chala jata hai.
 Reviewer/judge/checker ak hi hai,
+Verdict = judge ka faisla ek kaam par: PASS ya FAIL (saath mein reasons aur risk). Jaise ek exam ka result: pass ya fail.
+Misaal: judge ne ek diff dekha aur likha {"verdict": "FAIL", "reasons": ["test deleted"], "risk": "high"}. Yeh ek verdict hai.
 
 
 
