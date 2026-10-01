@@ -30,7 +30,9 @@ Register banate hain. Jab bhi saathi ki koi asal ghalti pakdi jaye, uska ek safh
 Supervisor ko marking sheet dete hain (rubric). Taake woh apne mood se number na de.
 Supervisor ko bhi parakhte hain. Aap 20 jawab khud check karti hain aur dekhti hain ke aap dono ka fe'sla kitna milta hai. Sab se bura farq wahi hai jahan supervisor ne ghalat kaam ko PASS kar diya.
 Jab bhi kuch badle, register dobara chalate hain. Naya rule aaye to dekhte hain ke purani ghalti wapas to nahi aayi.
-Waqt waqt par register chalate rehte hain. Kyunki kabhi kabhi aap kuch nahi badalti, phir bhi saathi ka behaviour badal jata hai.
+Waqt waqt par register chalate rehte hain. Kyunki kabhi kabhi aap kuch nahi badalti, phir bhi saathi ka behaviour badal jata hai. 
+1. Har baar PASS zaroori nahi hota. Yeh bar par depend karta hai. Refund jaise mehngi ghalti par har baar PASS chahiye (6 mein se 6). Lehje jaise sasti ghalti par 80% bhi chalta hai. Hum PASS isliye dekhte hain ke pata chale agent par kitna bharosa kar saken, isliye nahi ke har baar 100% laazmi ho.
+2. Haan, insaan checker ko bhi verify karta hai, lekin har baar nahi. Insaan ek chhoti jaanch karta hai: 20 fe'sle uthata hai, khud rubric ke mutabik check karta hai, aur dekhta hai ke checker se kitna milta hai. Yeh kabhi kabhi hota hai, har PASS par nahi. Aur khatarnak kaam (jaise paisa) aakhir mein phir bhi insaan ke paas jata hai.
 
 
 
