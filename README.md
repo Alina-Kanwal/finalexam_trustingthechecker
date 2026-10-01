@@ -37,6 +37,8 @@ Jis my mistakes likhi hoti hain taaaky wo dubara na hon wo yahan wo har baar poo
 Chhota set (smoke set): sab se zaroori 5-6 cases, har badlaav par chalte hain, kuch minute mein.
 Poora set: saare cases, raat ko schedule par.
 Hold-outs: kuch cases jin par aap ne kabhi tuning nahi ki, hafte mein ek baar.
+Chhota tareeqa jaldi aur sasta hai, isliye har badlaav/changes
+Bada tareeqa dair aur paisa leta hai, isliye wahi raat ko ya hafte mein ek baar.
 
 
 
