@@ -55,6 +55,10 @@ Is mein teen cheezein shamil hain:
 Cases ka folder (kya test karna hai)
 Runner script (har case ko chalane wala)
 Grading (jawab ko expected se milana)
+Aap ki team mein ek naya saathi hai. Aaj usne ek customer ka refund sahi kiya, aur aap ne register mein likha: PASS.
+Kal usi saathi ne wahi kaam, usi tarah ke ticket par, galat account mein refund kar diya. Ab aap ne likha: FAIL.
+Dono number sach the, lekin har number sirf us ek din ke kaam ke baare mein tha. Agar aap sirf aaj ka PASS dekh kar keh dein "yeh saathi par bharosa kiya ja sakta hai", to kal ki ghalti chhup jati.
+Isi liye kai baar chalate hain. Agar aap us saathi ke 20 din ke tickets dekhein aur 19 sahi hon, to aap ko pata chalta hai ke woh aam taur par kitna bharosemand hai. AI agent ke saath bhi yahi hai: wahi kaam dobara do to jawab thoda alag aa sakta hai, isliye ek PASS kaafi nahi, kai baar chalana padta hai.
 
 
 
