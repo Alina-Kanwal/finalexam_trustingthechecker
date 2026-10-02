@@ -51,6 +51,10 @@ Reviewer/judge/checker ak hi hai,
 Verdict = judge ka faisla ek kaam par: PASS ya FAIL (saath mein reasons aur risk). Jaise ek exam ka result: pass ya fail.
 Misaal: judge ne ek diff dekha aur likha {"verdict": "FAIL", "reasons": ["test deleted"], "risk": "high"}. Yeh ek verdict hai.
 Suite = cases ka poora set, jise saath mein chalate hain. Jaise register mein saari purani ghaltiyon ke safhe, ya imtihan ka poora paper.
+Is mein teen cheezein shamil hain:
+Cases ka folder (kya test karna hai)
+Runner script (har case ko chalane wala)
+Grading (jawab ko expected se milana)
 
 
 
